@@ -31,7 +31,7 @@ Want to see past entries? Go to the [archive](/archive)
   - [.NET](#net)
   - [Assembler](#assembler)
   - [PHP](#php)
-  - [.NET >> Core](#net-core)
+  - [.NET - Core](#net-core)
   - [Go](#go)
   - [Clojure](#clojure)
   - [Delphi](#delphi)
@@ -42,9 +42,9 @@ Want to see past entries? Go to the [archive](/archive)
   - [JavaScript](#java-script)
 - [Front-End Development](#front-end-development)
   - [Web Performance Optimization](#web-performance-optimization)
-  - [Vue.js](#vue-js)
+  - [Vue.js](#vuejs)
   - [jQuery](#j-query)
-  - [CSS >> Scalability](#css-scalability)
+  - [CSS - Scalability](#css-scalability)
 - [Editors](#editors)
   - [Atom](#atom)
 - [Development Environment](#development-environment)
@@ -153,7 +153,7 @@ Want to see past entries? Go to the [archive](/archive)
 - [Microservices in .NET Core](https://www.manning.com/books/microservices-in-net-core) - shows you how to build maintainable, secure and operations-friendly microservices using Nancy and .NET Core. [$]
 
 
-### [.NET >> Core](https://github.com/thangchung/awesome-dotnet-core)
+### [.NET - Core](https://github.com/thangchung/awesome-dotnet-core)
 
 - [ASP.NET Monsters](https://channel9.msdn.com/Series/aspnetmonsters)
 
@@ -242,7 +242,7 @@ Want to see past entries? Go to the [archive](/archive)
 
 ## Front-End Development
 
-### [CSS >> Scalability](https://github.com/davidtheclark/scalable-css-reading-list)
+### [CSS - Scalability](https://github.com/davidtheclark/scalable-css-reading-list)
 
 - [Google](https://google.github.io/styleguide/htmlcssguide.xml#CSS_Style_Rules)
 
