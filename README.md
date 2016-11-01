@@ -13,7 +13,9 @@ Want to see past entries? Go to the [archive](/archive)
 
 - [Miscellaneous](#miscellaneous)
   - [Citizen Science](#citizen-science)
+  - [JSON](#json)
   - [Bitcoin](#bitcoin)
+  - [Programming Interviews](#programming-interviews)
   - [Research Tools](#research-tools)
   - [Appium](#appium)
 - [Gaming](#gaming)
@@ -25,18 +27,25 @@ Want to see past entries? Go to the [archive](/archive)
   - [Scala](#scala)
   - [Go](#go)
   - [Swift](#swift)
+  - [JavaScript → ESLint](#java-script--es-lint)
   - [JavaScript → Functional Programming](#java-script--functional-programming)
+  - [Dart](#dart)
 - [Back-End Development](#back-end-development)
   - [Serverless Framework](#serverless-framework)
 - [Editors](#editors)
   - [Sublime Text](#sublime-text)
 - [Front-End Development](#front-end-development)
   - [Vue.js](#vuejs)
+  - [Web Components](#web-components)
+  - [Draft.js](#draftjs)
+  - [webpack](#webpack)
   - [PostCSS](#post-css)
 - [Platforms](#platforms)
   - [iOS](#i-os)
 - [Development Environment](#development-environment)
   - [Command-Line Apps](#command-line-apps)
+- [Media](#media)
+  - [Stock Resources](#stock-resources)
 
 ## Miscellaneous
 
@@ -62,6 +71,23 @@ Want to see past entries? Go to the [archive](/archive)
 - [EPA Environmental Education Grants](https://www.epa.gov/education/environmental-education-ee-grants) - Grants available for small community organizations.
 
 
+### [JSON](https://github.com/burningtree/awesome-json)
+
+- [Jsonnet](http://jsonnet.org/) - A domain specific configuration language that helps you define JSON data.
+- [JSON Table Schema](http://specs.frictionlessdata.io/json-table-schema/) - a simple schema for tabular data
+- [NDJSON](http://specs.frictionlessdata.io/ndjson/) - (Newline delimited JSON) - a standard for delimiting JSON in stream protocols.
+- [json-rel](https://github.com/slurmulon/json-where) - Transparent references in JSON.
+- [JSONPlaceholder](https://jsonplaceholder.typicode.com/) - Fake Online REST API for Testing and Prototyping.
+- [JsonStub](https://jsonstub.com/) - Online JSON faker.
+- [RethinkDB](https://rethinkdb.com/) - An open-source distributed document database with a pleasant and powerful query language.
+- [Understanding JSON Schema](https://spacetelescope.github.io/understanding-json-schema/) - A website aiming to provide more accessible documentation for JSON schema.
+
+
+### [Programming Interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
+
+- [Linux System Administrator/DevOps Interview Questions](https://github.com/chassing/linux-sysadmin-interview-questions)
+
+
 ### [Research Tools](https://github.com/emptymalei/awesome-research)
 
 - [Hackmd.io](https://hackmd.io) - (Cloud): Basically ships with everything you expect from the most complete online markdown editor.
@@ -74,17 +100,31 @@ Want to see past entries? Go to the [archive](/archive)
 
 ## Programming Languages
 
+### [Dart](https://github.com/yissachar/awesome-dart)
+
+- [Aqueduct](https://github.com/stablekernel/aqueduct) - is a fully-featured server-side framework, with an ORM, database migration tools, OAuth 2.0 implementation, automatic OpenAPI specification generation and multi-threading support.
+- [Postgres](https://github.com/stablekernel/postgresql-dart) - A PostgreSQL database driver that uses the extended, binary protocol for more efficient and secure queries.
+
+
 ### [Elixir](https://github.com/h4cc/awesome-elixir)
 
 - [sift_ex](https://github.com/C404/sift_ex) - A Siftscience API Library for Elixir.
+- [sentry-elixir](https://github.com/getsentry/sentry-elixir) - The Official Elixir client for Sentry.
+- [elixir-browser](https://github.com/tuvistavie/elixir-browser) - Browser detection for Elixir.
 
 
 ### [Go](https://github.com/avelino/awesome-go)
 
+- [alien](https://github.com/gernest/alien) - A lightweight and  fast http router from outer space
 - [utron](https://github.com/gernest/utron) - A lightweight MVC framework for Go(Golang).
 - [hprose](https://github.com/hprose/hprose-golang) - A very newbility RPC Library, support 25+ languages now.
 - [Building Go Web Applications and Microservices Using Gin](https://semaphoreci.com/community/tutorials/building-go-web-applications-and-microservices-using-gin) - Get familiar with Gin and find out how it can help you reduce boilerplate code and build a request handling pipeline.
 - [How to Use Godog for Behavior-driven Development in Go](https://semaphoreci.com/community/tutorials/how-to-use-godog-for-behavior-driven-development-in-go) - Get started with Godog — a Behavior-driven development framework for building and testing Go applications.
+
+
+### [JavaScript → ESLint](https://github.com/dustinspecker/awesome-eslint)
+
+- [ESLint Comments](https://github.com/mysticatea/eslint-plugin-eslint-comments) - Best practices about ESLint directive comments (/*eslint-disable*/, etc...)
 
 
 ### [JavaScript → Functional Programming](https://github.com/stoeffel/awesome-fp-js)
@@ -107,11 +147,14 @@ Want to see past entries? Go to the [archive](/archive)
 ### [Swift](https://github.com/matteocrippa/awesome-swift)
 
 - [UIDropDown](https://github.com/igongora/UIDropDown) - An elegant dropdown for iOS written in Swift.
+- [Wallet](https://github.com/rshevchuk/Wallet) - A replica of the Apple's Wallet interface. Add, delete or present your cards and passes.
 
 
 ### [Swift → Playgrounds](https://github.com/uraimo/Awesome-Swift-Playgrounds)
 
 - [AudioKit Playground Book](http://github.com/audiokit/AudioKitPlaygroundBook) - A set of playgrounds using AudioKit designed for the iOS10 Playgrounds app. 
+- [AudioKit Playground Book](https://github.com/audiokit/AudioKitPlaygroundBook) - A set of playgrounds using AudioKit designed for the iOS10 Playgrounds app. 
+- [Ray tracing Playground](https://github.com/mhorga/Raytracing) - A playground and a series of articles on ray tracing, see also part 2, 3, 4, 5 
 
 ## Back-End Development
 
@@ -119,6 +162,8 @@ Want to see past entries? Go to the [archive](/archive)
 
 - [Shifter goes serverless](http://cloudacademy.com/blog/wordpress-cloud-hosting-shifter) - Story how the Shifter platform went to a serverless architecture.
 - [EPX Labs](http://www.epxlabs.com) - Consultancy.
+- [Browserify](https://github.com/doapp-ryanp/serverless-plugin-browserify) - Add browserify to speedup Lambdas.
+- [ServerlessConf 2016 recap](https://serverlesscode.com/post/serverlessconf-london-recap/) - Recap of the ServerlessConf 2016 in London.
 
 ## Editors
 
@@ -129,6 +174,11 @@ Want to see past entries? Go to the [archive](/archive)
 
 ## Front-End Development
 
+### [Draft.js](https://github.com/nikgraf/awesome-draft-js)
+
+- [Draft.js Typeahead](https://github.com/dooly-ai/draft-js-typeahead) - Support for typeahead functionality.
+
+
 ### [PostCSS](https://github.com/jjaderg/awesome-postcss)
 
 - [7 Postcss Pluguins to Ease You Into Postcss](https://www.sitepoint.com/7-postcss-plugins-to-ease-you-into-postcss/)
@@ -138,6 +188,17 @@ Want to see past entries? Go to the [archive](/archive)
 
 - [Vue-Easy-Validator](https://github.com/MetinSeylan/Vue-Easy-Validator) - Fast-Easy client side form validation for Vuejs 2 @MetinSeylan
 - [Medium like Image Loading with Vue.js](https://www.theodo.fr/blog/2016/10/medium-like-image-loading-with-vue-js/)
+
+
+### [Web Components](https://github.com/mateusortiz/webcomponents-the-right-way)
+
+- [WebComponentsjs](https://github.com/WebComponents/webcomponentsjs) - : A polyfill for Custom Elements, Shadow DOM, HTML Imports, Weakmap, and Mutation Observers
+- [custom-elements](https://github.com/webcomponents/custom-elements) - : A polyfill for the v1 spec for Custom Elements.
+
+
+### [webpack](https://github.com/d3viant0ne/awesome-webpack)
+
+- [Bundle Analyzer](https://github.com/th0r/webpack-bundle-analyzer) - Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap. -- Maintainer: Yuriy Grunin
 
 ## Platforms
 
@@ -152,6 +213,12 @@ Want to see past entries? Go to the [archive](/archive)
 ### [Command-Line Apps](https://github.com/aharris88/awesome-cli-apps)
 
 - [moeda](https://github.com/thompsonemerson/moeda) - A foreign exchange rates and currency conversion using cli
+
+## Media
+
+### [Stock Resources](https://github.com/neutraltone/awesome-stock-resources)
+
+- [Photo Collections](https://photocollections.io/) - Free stock photography of architecture, nature and people.
 
 
 ## License
