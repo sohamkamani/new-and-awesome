@@ -6,6 +6,8 @@ A curated list of new additions to the [awesome](http://awesome.re) lists. Updat
 
 Check out my [blog](http://sohamkamani.com/blog/) and follow me on [twitter](http://twitter.com/sohamkamani).
 
+[How is this list populated?](#how-is-this-list-populated)
+
 
 # New and awesome on 03 November 16
 
@@ -106,6 +108,20 @@ Want to see past entries? Go to the [archive](/archive)
 ### [Static Analysis & Code Quality](https://github.com/mre/awesome-static-analysis)
 
 - [portlint](https://www.freebsd.org/cgi/man.cgi?query=portlint&sektion=1&manpath=FreeBSD+8.1-RELEASE+and+Ports) -  [OSS] - A verifier for FreeBSD and DragonFlyBSD port directories
+
+
+## How is this list populated?
+
+We as humans obviously do not have time to go through all 350+ awesome lists and select the new entries in each list everyday. This is taken care of using automation.
+
+There is currently a crawler which is run everyday to fetch all items from each list currently on the [awesome](http://awesome.re) page. The items are then filtered to retain only items not currently present among the items fetched previously. As a result, we only retain items updated today.
+
+This information is then formatted into good old markdown, and updated here daily ✨
+
+Of course, web crawling is a very precise business, and so _not all_ lists can be parsed. This includes lists which don't adhere to standard markdown, and lists which follow an unconventional approach to list items (like using tables instead of lists). Overall, though, the coverage is pretty good :
+
+- Out of 362 lists detected on the [awesome](http://awesome.re) page, 18 fail
+- As of now, there are upwards of 45000 items collected from all the lists together, with more added each day (that's what this list is for)
 
 
 ## License
