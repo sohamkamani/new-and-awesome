@@ -2,7 +2,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of new additions to the [awesome](http://awesome.re) lists. Updated daily.
+A list of new additions to the [awesome](http://awesome.re) lists. Updated daily, to give a crowdsourced newsletter-like experience of what's going on in the tech world.
 
 Check out my [blog](http://sohamkamani.com/blog/) and follow me on [twitter](http://twitter.com/sohamkamani).
 
